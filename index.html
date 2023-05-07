@@ -8,7 +8,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2NQTE8SFGH');
+  gtag('config', 'G-VC2DKFTL6Q');
 </script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="description" content="遺石、立会粉骨、散骨自然葬の「ニチロ静内」。" />
