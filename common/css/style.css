@@ -38,7 +38,7 @@ a:hover,a:active{
 /* 文字サイズ */
 
 * html body{
-    font-size: 75%;
+    font-size: 100%;
 }
 
 * html body th,* html body td{
@@ -46,14 +46,14 @@ a:hover,a:active{
 }
 
 *:first-child+html body {
-    font-size: 75%;
+    font-size: 100%;
 }
 
 html>/**/body{
-    font-size: 75%;
+    font-size: 100%;
 }
 
-.f10{font-size: 84%;}
+.f10{font-size: 100%;}
 .f12{font-size: 100%;}
 .f14{font-size: 117%;}
 .f16{font-size: 134%;}
@@ -203,7 +203,7 @@ html>/**/body{
 	margin: 0px;
 	padding: 0px;
 	color: #fff;
-	font-size: 84%;
+	font-size: 100%;
 	line-height: 30px;
 	text-align: left;
 	overflow: hidden;
@@ -235,7 +235,7 @@ html>/**/body{
 	margin: 0px auto;
 	padding: 10px 0px;
 	color: #fff;
-	font-size: 84%;
+	font-size: 100%;
 	text-align: left;
 }
 
@@ -274,7 +274,7 @@ html>/**/body{
 	background-repeat: no-repeat;
 	background-position: left bottom;
 	color: #7cc2e9;
-	font-size: 100%;
+	font-size: 130%;
 	line-height: 1.2em;
 }
 
@@ -282,7 +282,7 @@ html>/**/body{
 	margin: 0px;
 	padding: 0px;
 	color: #7cc2e9;
-	font-size: 84%;
+	font-size: 100%;
 	line-height: 1.4em;
 }
 
@@ -295,7 +295,7 @@ html>/**/body{
 	margin: 0px;
 	padding: 0px 0 10px;
 	color: #7cc2e9;
-	font-size: 84%;
+	font-size: 100%;
 	font-family: Arial, Helvetica, sans-serif;
 	letter-spacing: 0.1em;
 	text-align: right;
@@ -366,23 +366,23 @@ html>/**/body{
 
 /* ----- お知らせ ----- */
 
-#topNews{
+/* #topNews{
 	width: 220px;
 	margin: 0px;
 	padding: 0px;
-}
+} */
 
-#topNews h2{
+/* #topNews h2{
 	margin: 0px 0px 15px;
 	padding: 0px;
-}
+} */
 
-#topNews dl{
+/* #topNews dl{
 	margin: 0px;
 	padding: 0px;
-}
+} */
 
-#topNews dl dt{
+/* #topNews dl dt{
 	width: 80px;
 	margin: 0px 0px 5px;
 	padding: 3px;
@@ -392,13 +392,13 @@ html>/**/body{
 	line-height: 1.2em;
 	letter-spacing: 0.05em;
 	text-align: center;
-}
+} */
 
-#topNews dl dd{
+/* #topNews dl dd{
 	margin: 0px 0px 15px;
 	padding: 0px;
 	line-height: 1.4em;
-}
+} */
 
 /* ----- カウント ----- */
 
@@ -644,7 +644,7 @@ p{
 	margin: 0px;
 	padding: 5px 0px 0px;
 	color: #ff0000;
-	font-size: 84%;
+	font-size: 100%;
 	line-height: 1.2em;
 }
 
@@ -713,7 +713,7 @@ p{
 .bgN   { background: none !important;}
 .tdU   { text-decoration: underline;}
 .tdN   { text-decoration: none;}
-.atode { border: 2px solid #96c; padding: 10px; text-align: center; background-color: #f9f; font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace; font-size: 30px; color: #fff;}
+
 
 /* !JavaScript -------------------------------------------------------------- */
 .over { /* ロールオーバー呼び出し用 */ }
